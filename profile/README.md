@@ -4,9 +4,9 @@ A **Comunidade Wave** é uma mentoria gratuita e preparatória feita por alunos 
 
 ---
 
-## 📁 Sobre este repositório
+## 📁 Sobre este github
 
-Este repositório é voltado à **organização interna dos membros da Comunidade Wave**.
+Este github é voltado à **organização interna dos membros da Comunidade Wave**.
 
 Aqui, os membros serão divididos em equipes conforme a **diretoria que atuam**. Cada diretoria terá seu próprio _project board_, onde será possível:
 
