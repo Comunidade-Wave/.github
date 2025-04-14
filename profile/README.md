@@ -1,6 +1,6 @@
 # 🌊 Comunidade Wave
 
-A **Comunidade Wave** é uma mentoria gratuita e preparatória feita por alunos do **Inteli** para jovens de todo o Brasil que sonham em estudar no Inteli. Nosso objetivo é apoiar futuros Intelers por meio de conteúdos, orientação e acompanhamento, tornando o processo seletivo mais acessível e humano.
+A **Comunidade Wave** é uma mentoria gratuita e preparatória feita por alunos do **Inteli** para jovens de todo o Brasil que sonham em estudar no Inteli. Nosso objetivo é apoiar futuros Intelers por meio de conteúdos, orientação e acompanhamento.
 
 ---
 
